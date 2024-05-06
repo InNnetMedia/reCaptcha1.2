@@ -47,11 +47,11 @@ btnConfirm.addEventListener("click",() => {
     if(comparator == correctCombination[displayedImage]){
         window.location = "https://www.google.com/";
     }else{
-        window.location = "./page1.html";
+        window.location = "page1.html";
     }
 })
 iconReload.addEventListener("click",() => {
-    window.location = "./page1.html";
+    window.location = "page1.html";
 })
 iconInfo.addEventListener("click", () => {
     window.location = "https://developers.google.com/recaptcha/docs/faq";
