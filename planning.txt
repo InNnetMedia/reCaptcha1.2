@@ -1,0 +1,30 @@
+parent dv{
+    header div{
+        Title and header
+        span for identifier
+    }
+    grid container{
+        ::position relative
+        displayed image
+        grid div{
+            4*4grid
+            ::position absolute to the container
+        }
+    }
+}
+
+for index.html
+parent div{
+    div{
+        left section{
+            checkbox
+            span for text
+        }
+        right section{
+            recaptcha logo
+        }
+    }
+}
+
+//remember to set margin-top back to zero on desktop view
+*make squares behave when clicked

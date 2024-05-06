@@ -1,0 +1,23 @@
+body{
+    margin: 4px;
+}
+.confirmation-container{
+    display:flex;
+    background-color:lightgray;
+    align-self:center;
+    justify-content:space-between;
+    max-width:400px;
+    margin:auto;
+    align-items:center;
+    padding:2%;
+    margin-top:60%;
+    border:1px solid rgb(165, 165, 165);
+}
+.left-section{
+    font-family:roboto;
+    font-size:20px;
+}
+
+.re-logo{
+    width:50px;
+}
